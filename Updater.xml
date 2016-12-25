@@ -3,7 +3,7 @@
         <RomLatestVersion>20161224</RomLatestVersion>
         <URL>https://github.com/Arubadel/ROM/releases/download/pac/pac_arubaslim_UNOFFICIAL_I8262_Beta2.zip</URL>
         <Changelog>
-            - I don't know change log
+            Added power hal for extending battery
         </Changelog>
     </update>
 </RomUpdater>
