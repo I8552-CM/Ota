@@ -1,3 +1,25 @@
 [
+  {
+    "prerelease": "true",
+    "stable": "false",
+    "latest" : "true",
+    "tag_name": "pac_i8262_Beta2",
+    "id": 20161224,
+    "name": "pac_arubaslim_UNOFFICIAL_I8262_Beta2.zip",
+    "release_date": "2016-12-20T20:16:02Z",
+    "browser_download_url": "https://github.com/Arubadel/ROM/releases/download/pac/pac_arubaslim_UNOFFICIAL_I8262_Beta2.zip",
+    "body": "Edit your changelog",
+    "version" : "20161224"
+  },
+  {
+    "prerelease": "true",
+    "stable": "false",
+    "tag_name": "pac_i8262_Beta1",
+    "id": 20161221,
+    "name": "pac_arubaslim__UNOFFICIAL-I8262-Beta1.zip",
+    "release_date": "2016-12-20T20:16:02Z",
+    "browser_download_url": "https://github.com/Arubadel/ROM/releases/download/pac/pac_arubaslim__UNOFFICIAL-I8262-Beta1.zip",
+    "body": "Edit your changelog",
+  }
 
 ]
