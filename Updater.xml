@@ -1,9 +1,10 @@
 <RomUpdater>
     <update>
-        <RomLatestVersion>20161224</RomLatestVersion>
-        <URL>https://github.com/Arubadel/ROM/releases/download/pac/pac_arubaslim_UNOFFICIAL_I8262_Beta2.zip</URL>
+        <RomLatestVersion>20170116</RomLatestVersion>
+        <URL>https://github.com/I8552-CM/Ota/releases/download/pac-beta3/pac_arubaslim__UNOFFICIAL_I8262_Beta3.zip</URL>
         <Changelog>
-            Added power hal for extending battery
+            - all bugs are same as cm13 beta 4.1
+	    - fixed coc
         </Changelog>
     </update>
 </RomUpdater>
